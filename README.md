@@ -21,3 +21,6 @@
 ![task2](https://github.com/SashkaSer/devops-netology2/blob/main/img/commitPC.png)`
 
 Однако, мне больше по душе Visual Studio, прятнее интерфейс
+
+### Ссылка на репозиторий
+<https://github.com/SashkaSer/devops-netology2/tree/main>
