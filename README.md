@@ -14,3 +14,10 @@
 
 Изменение файла ридми и отправка изменений
 ![task2](https://github.com/SashkaSer/devops-netology2/blob/main/img/branches1.png)`
+
+### Задание 4
+
+Коммит из Py Charm
+![task2](https://github.com/SashkaSer/devops-netology2/blob/main/img/commitPC.png)`
+
+Однако, мне больше по душе Visual Studio, прятнее интерфейс
